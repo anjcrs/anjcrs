@@ -35,4 +35,4 @@ When I first stepped into this field, I wasn’t completely sure it was for me. 
 ## 📫 Find Me Around :)
 * 📧 **Email:** [acarias.work@gmail.com](mailto:acarias.work@gmail.com)
 * 🔗 **LinkedIn:** [linkedin.com/in/anj-c-a13978318](https://www.linkedin.com/in/anj-c-a13978318/)
-* 🖤 **Right here on GitHub!**
+* **Right here on GitHub!** ^^
