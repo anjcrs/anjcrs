@@ -30,7 +30,7 @@ Loves learning new tech, even if it means lots of trial and error
 ---
 
 ## More About Me
-When I first stepped into this field, I wasn’t completely sure it was for me. But the more I kept moving forward, the more I discovered a true love for this field—and I’ve come to romanticize the process of making the journey my own. I enjoy experimenting with ideas, solving problems, and building discipline along the way. Every small progress feels like a win, and I see challenges not as setbacks but as opportunities to improve. With consistency, grit, and curiosity, I’m embracing this path fully and making it my own.
+When I first stepped into this field, I wasn’t completely sure it was for me. But the more I kept moving forward, the more I found myself slowly falling in love with this field—and I’ve come to romanticize the process of making the journey my own. I enjoy experimenting with ideas, solving problems, and building discipline along the way. Every small progress feels like a win, and I see challenges not as setbacks but as opportunities to improve. With consistency, grit, and curiosity, I’m embracing this path fully and making it my own.
 
 ## Connect With Me! :)
 * 📧 **Email:** [acarias.work@gmail.com](mailto:acarias.work@gmail.com)
