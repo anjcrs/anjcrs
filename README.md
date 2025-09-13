@@ -7,10 +7,10 @@
 Loves learning new tech, even if it means lots of trial and error
 
 ## 🧩 Currently Exploring
-* 🔹 Strengthening my **Python & Java fundamentals**
-* 🔹 Mobile app development with **Flutter & Dart**
-* 🔹 Database design and management
-* 🔹 Building habits that make me a disciplined coder
+* Strengthening my **Python & Java fundamentals**
+* Mobile app development with **Flutter & Dart**
+* Database design and management
+* Building habits that make me a disciplined coder
 
 ---
 
