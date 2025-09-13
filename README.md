@@ -4,13 +4,12 @@ I live by the mindset: *"Talent gives you a start, but persistence and effort ta
 
 ## Who I Am
 2nd Year BS Computer Science student at **Central Philippine University**  
-Loves learning new tech, even if it means lots of trial and error
 
 ## Currently Exploring
-* Strengthening my **Python & Java fundamentals**
-* Mobile app development with **Flutter & Dart**
-* Database design and management
-* Building habits that make me a disciplined coder
+* Advancing my Fundamentals in Python & Java
+* Database Design and Management
+* Basics about Machine Learning
+* Mobile App Development with **Flutter & Dart** 
 
 ---
 
