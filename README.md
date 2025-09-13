@@ -36,3 +36,13 @@ When I first stepped into this field, I wasn’t completely sure it was for me. 
 * 📧 **Email:** [acarias.work@gmail.com](mailto:acarias.work@gmail.com)
 * 🔗 **LinkedIn:** [linkedin.com/in/anj-c-a13978318](https://www.linkedin.com/in/anj-c-a13978318/)
 * **Right here on GitHub!** ^^
+  
+---
+
+## GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=anjcrs&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=anjcrs&theme=tokyonight&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=anjcrs&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
