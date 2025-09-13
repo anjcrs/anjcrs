@@ -1,4 +1,4 @@
-# 🌟 Hey there, I'm Anj
+# Hey there, I'm Anj
 
 💡 I live by the mindset: *"Talent gives you a start, but persistence and effort take you further."* I may not know everything yet, but I believe consistency, grit, and discipline will take me further. Through academic projects, personal coding challenges, and continuous practice, I aim to grow into a developer who creates meaningful solutions.
 
@@ -6,7 +6,7 @@
 2nd Year BS Computer Science student at **Central Philippine University**  
 Loves learning new tech, even if it means lots of trial and error
 
-## 🧩 Currently Exploring
+## Currently Exploring
 * Strengthening my **Python & Java fundamentals**
 * Mobile app development with **Flutter & Dart**
 * Database design and management
