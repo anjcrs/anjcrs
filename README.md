@@ -13,18 +13,31 @@ I live by the mindset: *"Talent gives you a start, but persistence and effort ta
 
 ---
 
-## Tech Stack:
+## Tech Stack
 
-![Python](https://img.shields.io/badge/python-%23001f3f?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23003366?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/c-%23002147?style=for-the-badge&logo=c&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%231e3a8a?style=for-the-badge&logo=dart&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23003f7f?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%23274c77?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%233f5f8a?style=for-the-badge&logo=javascript&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%23405d8a?style=for-the-badge&logo=Flutter&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%23364f6b?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/git-%232c3e50?style=for-the-badge&logo=git&logoColor=white)
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-1e3a8a?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-1e40af?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-1d4ed8?style=for-the-badge&logo=c&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-2563eb?style=for-the-badge&logo=dart&logoColor=white)
+
+### Web Technologies
+![HTML5](https://img.shields.io/badge/HTML5-1e40af?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1d4ed8?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-3730a3?style=for-the-badge&logo=javascript&logoColor=white)
+
+### Frameworks & Libraries
+![Flutter](https://img.shields.io/badge/Flutter-1e3a8a?style=for-the-badge&logo=flutter&logoColor=white)
+
+### Database
+![MySQL](https://img.shields.io/badge/MySQL-1e40af?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Tools & IDEs
+![VS Code](https://img.shields.io/badge/VS_Code-1e3a8a?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-1e40af?style=for-the-badge&logo=pycharm&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-1d4ed8?style=for-the-badge&logo=android-studio&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-3730a3?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-2563eb?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
