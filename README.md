@@ -46,3 +46,11 @@ When I first stepped into this field, I wasn’t completely sure it was for me. 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anjcrs&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+---
+
+<div align="center">
+
+[![](https://visitcount.itsvg.in/api?id=anjcrs&icon=0&color=0)](https://visitcount.itsvg.in)
+
+</div>
+
