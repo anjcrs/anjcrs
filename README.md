@@ -1,8 +1,8 @@
 # Hey there, I'm Anj
 
-💡 I live by the mindset: *"Talent gives you a start, but persistence and effort take you further."* I may not know everything yet, but I believe consistency, grit, and discipline will take me further. Through academic projects, personal coding challenges, and continuous practice, I aim to grow into a developer who creates meaningful solutions.
+I live by the mindset: *"Talent gives you a start, but persistence and effort take you further."* I may not know everything yet, but I believe consistency, grit, and discipline will take me further. Through academic projects, personal coding challenges, and continuous practice, I aim to grow into a developer who creates meaningful solutions.
 
-## ✨ Who I Am
+## Who I Am
 2nd Year BS Computer Science student at **Central Philippine University**  
 Loves learning new tech, even if it means lots of trial and error
 
@@ -14,7 +14,7 @@ Loves learning new tech, even if it means lots of trial and error
 
 ---
 
-## 💻 Tech Stack:
+## Tech Stack:
 
 ![Python](https://img.shields.io/badge/python-%23001f3f?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23003366?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -32,7 +32,7 @@ Loves learning new tech, even if it means lots of trial and error
 ## More About Me
 When I first stepped into this field, I wasn’t completely sure it was for me. But the more I kept moving forward, the more I discovered a true love for this field—and I’ve come to romanticize the process of making the journey my own. I enjoy experimenting with ideas, solving problems, and building discipline along the way. Every small progress feels like a win, and I see challenges not as setbacks but as opportunities to improve. With consistency, grit, and curiosity, I’m embracing this path fully and making it my own.
 
-## 📫 Find Me Around
+## 📫 Find Me Around :)
 * 📧 **Email:** [acarias.work@gmail.com](mailto:acarias.work@gmail.com)
 * 🔗 **LinkedIn:** [linkedin.com/in/anj-c-a13978318](https://www.linkedin.com/in/anj-c-a13978318/)
 * 🖤 **Right here on GitHub!**
