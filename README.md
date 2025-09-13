@@ -1,17 +1,16 @@
-# 🌟 Hey there, I'm Anj
+# Hey there, I'm Anj
 
 💡 I live by the mindset: *"Talent gives you a start, but persistence and effort take you further."* I may not know everything yet, but I believe consistency, grit, and discipline will take me further. Through academic projects, personal coding challenges, and continuous practice, I aim to grow into a developer who creates meaningful solutions.
 
-## ✨ Who I Am
-🎓 2nd Year BS Computer Science student at **Central Philippine University**  
-💻 Future Software Engineer in the making  
-📚 Loves learning new tech, even if it means lots of trial and error
+## Who I Am
+2nd Year BS Computer Science student at **Central Philippine University**  
+Loves learning new tech, even if it means lots of trial and error
 
 ## 🧩 Currently Exploring
-* 🔹 Strengthening my **Python & Java fundamentals**
-* 🔹 Mobile app development with **Flutter & Dart**
-* 🔹 Database design and management
-* 🔹 Building habits that make me a disciplined coder
+🔹 Strengthening my **Python & Java fundamentals**
+🔹 Mobile app development with **Flutter & Dart**
+🔹 Database design and management
+🔹 Building habits that make me a disciplined coder
 
 ---
 
@@ -30,10 +29,16 @@
 
 ---
 
-## 🌱 Beyond the Code
-I'm someone who enjoys solving problems, experimenting with ideas, and slowly leveling up my skills. For me, every small progress is a win.
+## More About Me
+When I first stepped into this field, I wasn’t completely sure it was for me. But the more I kept moving forward, the more I discovered a true love for this field—and I’ve come to romanticize the process of making the journey my own. I enjoy experimenting with ideas, solving problems, and building discipline along the way. Every small progress feels like a win, and I see challenges not as setbacks but as opportunities to improve. With consistency, grit, and curiosity, I’m embracing this path fully and making it my own.
 
-## 📫 Find Me Around
-* 📧 *[Your Email Here]*
-* 🔗 *[Your LinkedIn Here]*
-* 🖤 Right here on GitHub!
+## Skills I'm Growing
+Programming Languages: Python, Java, C, Dart
+Web Basics: HTML, CSS, JavaScript
+Databases: MySQL, MS Access
+Extra Stuff: UI prototyping, problem-solving, version control (Git)
+
+## 📫 Find Me Around! 
+* 📧 **Email:** [acarias.work@gmail.com](mailto:acarias.work@gmail.com)
+* 🔗 **LinkedIn:** [linkedin.com/in/anj-c-a13978318](https://www.linkedin.com/in/anj-c-a13978318/)
+* 🖤 **Right here on GitHub!**
