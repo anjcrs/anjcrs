@@ -1,4 +1,4 @@
-# Hey there, I'm Anj
+# hello there!
 
 I live by the mindset: *"Talent gives you a start, but persistence and effort take you further."* I may not know everything yet, but I believe consistency, grit, and discipline will take me further. Through academic projects, personal coding challenges, and continuous practice, I aim to grow into a developer who creates meaningful solutions.
 
