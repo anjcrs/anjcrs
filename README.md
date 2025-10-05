@@ -20,7 +20,6 @@ I live by the mindset: *"Talent gives you a start, but persistence and effort ta
 ![Java](https://img.shields.io/badge/Java-1e40af?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-1d4ed8?style=for-the-badge&logo=dart&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-1e40af?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-2563eb?style=for-the-badge&logo=css3&logoColor=white)
 
 ### IDEs & Development Tools
 ![VS Code](https://img.shields.io/badge/VS_Code-1e3a8a?style=for-the-badge&logo=visual-studio-code&logoColor=white)
